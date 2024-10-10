@@ -1,0 +1,32 @@
+{
+  "fileName": "render.cpp",
+  "CLArgs": {
+    "-p": "16",
+    "-C": "8",
+    "-B": "16",
+    "-N": "1",
+    "-G": "1",
+    "-M": "0",
+    "-D": "0",
+    "-A": "0",
+    "--pga-gain-left": "10",
+    "--pga-gain-right": "10",
+    "user": "",
+    "make": "CFLAGS=-I$(PROJECT_DIR)/u8g2/csrc;\nCPPFLAGS=-I$(PROJECT_DIR)/u8g2/csrc",
+    "-X": "0",
+    "audioExpander": "0",
+    "-Y": "",
+    "-Z": "",
+    "--disable-led": "0",
+    "-H0,": "-27",
+    "-H1,": "-27",
+    "-H2,": "-6",
+    "-H3,": "-6",
+    "-H4,": "-6",
+    "-H5,": "-6",
+    "-H6,": "-6",
+    "-H7,": "-6",
+    "-I0,": "10",
+    "-I1,": "10"
+  }
+}
