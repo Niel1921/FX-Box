@@ -82,18 +82,6 @@ Optional:
 
 ---
 
-## Hardware Breakdown
-
-To use this software you require:
-
-Bela board
-Audio input and output cables
-Touch strips (X/Y and Single parameter)
-OLED Display 64*128
-3 buttons
-
----
-
 
 ## License
 
